@@ -1,4 +1,4 @@
-# Yuichiro Kikura
+# Yuichiro Kikura (Kiikurage)
 
 - Tokyo, Japan
 - y.kikura@gmail.com
@@ -15,17 +15,32 @@
 ### Programing Languages
 
 -	Python,
--	JavaScript (TypeScript)
+-	JavaScript (TypeScript), HTML, CSS (sass)
 -	C++
--	HTML, CSS (sass)
+-	Visual Basic
 
 ### Knowledge about statistical machine learning
 
-My research interests lie in field of computer vision and natural language processing. Particularly, I am developing methods for parsing video contexts, summarizing, and generating captions. So I have knowledges of statistics and machine learning methods like support vector machine (SVM), convolutional neural network (CNN), recurrent neural network (RNN), image/video processing, and natural language processing.
+My research interests lie in field of computer vision and natural language processing. Particularly, I am developing methods for parsing video contexts, summarizing, and generating captions. So I have knowledges of machine learning methods like support vector machine (SVM), convolutional neural network (CNN), recurrent neural network (RNN), image/video processing, and natural language processing.
 
 ### Knowledge about Front-end web development
 
-I have experiences with developing webapps as team, so I have knowledge of typical developing workflow, GitHub issue, CI, and deployment. I also have experience of creating progressive web app and static website, by using service worker, WebAssembly, WebComponents, Polymer, accelerated mobile web (AMP). Furthermore, I tend to make webapps simple and productive so I use gulp. Currently, I work as a frontend web subcontractor (not fulltime job) for developing front-end web application at RECRUIT LIFESTYLE CO., LTD.
+I have experiences with developing webapps as team, so I have knowledge of typical developing workflow, GitHub issue, CI, and deployment. I also have experience of creating progressive web app and static website, by using ServiceWorker, WebAssembly, WebComponents, Polymer, accelerated mobile web (AMP). Furthermore, I tend to make webapps simple and productive so I use gulp. Currently, I work as a frontend web subcontractor (not fulltime job) for developing front-end web application at RECRUIT LIFESTYLE CO., LTD.
+
+## Work History
+
+### Microsoft Development (Summer Internship)
+
+Aug. 2016 - Sep. 2016	
+
+Development emotional chat bot using machine learning and natural language processing methods.
+
+### Recruit Lifestyle
+
+Apr. 2015 - Oct. 2016
+
+Creating web sites and applications.
+
 
 ## Awards
 
