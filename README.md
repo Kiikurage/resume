@@ -3,6 +3,8 @@
 - Tokyo, Japan
 - y.kikura@gmail.com
 
+GitHub: [https://github.com/kiikurage]()
+
 ## EDUCATION
 
 ### University of Tokyo, Japan
@@ -21,7 +23,7 @@
 
 ### Knowledge about statistical machine learning
 
-My research interests lie in field of computer vision and natural language processing. Particularly, I am developing methods for parsing video contexts, summarizing, and generating captions. So I have knowledges of machine learning methods like support vector machine (SVM), convolutional neural network (CNN), recurrent neural network (RNN), image/video processing, and natural language processing.
+My research interests lie in field of computer vision and natural language processing. I have knowledges of machine learning methods like support vector machine (SVM), convolutional neural network (CNN), recurrent neural network (RNN), image/video processing, and natural language processing. Now I'm developing methods to improve the performance of deep neural network (DNN) model which runnning on poor-resource environment like mobile phone. Also I studied about sentiment analysis with using RNN-based DNN model before.
 
 ### Knowledge about Front-end web development
 
