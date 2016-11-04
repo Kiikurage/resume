@@ -9,8 +9,8 @@ GitHub: [https://github.com/kiikurage]()
 
 ### University of Tokyo, Japan
 
-- 2016.4 – 2018.3: M.S of Information Science and Technology (expected)
-- 2011.4 - 2016.3: B.E of Engineering
+- 2016.4 – 2018.3: M.S. in Information Science and Technology (expected)
+- 2011.4 - 2016.3: B.E. in Chemical System Engineering
 
 ## Skills
 
