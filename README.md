@@ -14,6 +14,11 @@ GitHub: [https://github.com/kiikurage]()
 
 ## Skills
 
+### Language
+
+- Japanese: native
+- English: a little
+
 ### Programing Languages
 
 -	Python,
