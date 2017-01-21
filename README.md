@@ -16,14 +16,14 @@ GitHub: [https://github.com/kiikurage]()
 
 ### Language
 
-- Japanese: native
-- English: a little
+- Japanese
+- English
 
 ### Programing Languages
 
--	Python,
--	JavaScript (TypeScript), HTML, CSS (sass)
+-	Python
 -	C++
+-	JavaScript (TypeScript), HTML, CSS (sass)
 -	Visual Basic
 
 ### Knowledge about statistical machine learning
