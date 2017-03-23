@@ -48,6 +48,9 @@ Apr. 2015 - Oct. 2016
 
 Creating web sites and applications.
 
+## Publications
+
+- Xianchao Wu, **Yuichiro Kikura**, Momo Klyen, Zhan Chen, "Sentiment Analysis with Eight Dimensions for Emotional Chatbots", NLP2017, 2017.
 
 ## Awards
 
