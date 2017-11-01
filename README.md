@@ -50,11 +50,13 @@ Creating web sites and applications.
 
 ## Publications
 
-- Xianchao Wu, **Yuichiro Kikura**, Momo Klyen, Zhan Chen, "Sentiment Analysis with Eight Dimensions for Emotional Chatbots", NLP2017, 2017.
+- Masatoshi Hidaka*, **Yuichiro Kikura\***, Yoshitaka Ushiku, Tatsuya Harada. "WebDNN: Fastest DNN Execution Framework on Web Browser", ACMMM Open Source Software Competition, pp.1213-1216, 2017 **(Honorable Mentioned Award)**. ([PDF](https://dl.acm.org/citation.cfm?id=3129394&CFID=823516177&CFTOKEN=78760111)) ([GitHub](https://github.com/mil-tokyo/webdnn))
+- Xianchao Wu, **Yuichiro Kikura**, Momo Klyen, Zhan Chen, "Sentiment Analysis with Eight Dimensions for Emotional Chatbots", NLP2017, 2017. ([PDF](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/C5-2.pdf))
 
 ## Awards
 
-1.	Recruit Holdings Co.,Ltd Winter Internship 2015 Application Engineer course[^1]: First place
-2.	CyberAgent, Inc. Summer Internship Technology CAMP 2013: Second place
+1.  ACMMM 2017, Open Source Software Competition: **Honorable Mentioned Award**
+2.	Recruit Holdings Co.,Ltd Winter Internship 2015 Application Engineer course[^1]: **First place**
+3.	CyberAgent, Inc. Summer Internship Technology CAMP 2013: **Second place**
 
 [^1]: http://recruit-jinji.jp/winter-internship2015/
