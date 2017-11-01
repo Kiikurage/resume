@@ -50,8 +50,8 @@ Creating web sites and applications.
 
 ## Publications
 
-- Masatoshi Hidaka*, **Yuichiro Kikura\***, Yoshitaka Ushiku, Tatsuya Harada. "WebDNN: Fastest DNN Execution Framework on Web Browser", ACMMM Open Source Software Competition, pp.1213-1216, 2017 **(Honorable Mentioned Award)**. ([PDF](https://dl.acm.org/citation.cfm?id=3129394&CFID=823516177&CFTOKEN=78760111)) ([GitHub](https://github.com/mil-tokyo/webdnn))
-- Xianchao Wu, **Yuichiro Kikura**, Momo Klyen, Zhan Chen, "Sentiment Analysis with Eight Dimensions for Emotional Chatbots", NLP2017, 2017. ([PDF](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/C5-2.pdf))
+- Masatoshi Hidaka*, **Yuichiro Kikura\***, Yoshitaka Ushiku, Tatsuya Harada. *"WebDNN: Fastest DNN Execution Framework on Web Browser"*, ACMMM Open Source Software Competition, pp.1213-1216, 2017. (*: Equal Contribution) **(Honorable Mentioned Award)**. ([PDF](https://dl.acm.org/citation.cfm?id=3129394&CFID=823516177&CFTOKEN=78760111)) ([GitHub](https://github.com/mil-tokyo/webdnn))
+- Xianchao Wu, **Yuichiro Kikura**, Momo Klyen, Zhan Chen, *"Sentiment Analysis with Eight Dimensions for Emotional Chatbots"*, NLP2017, 2017. ([PDF](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/C5-2.pdf))
 
 ## Awards
 
