@@ -3,13 +3,13 @@
 - Tokyo, Japan
 - y.kikura@gmail.com
 
-GitHub: [https://github.com/kiikurage]()
+GitHub: https://github.com/kiikurage
 
 ## EDUCATION
 
 ### University of Tokyo, Japan
 
-- 2016.4 – 2018.3: M.S. in Information Science and Technology (expected)
+- 2016.4 – 2018.3: M.S. in Information Science and Technology
 - 2011.4 - 2016.3: B.E. in Chemical System Engineering
 
 ## Skills
@@ -35,6 +35,10 @@ My research interests lie in field of computer vision and natural language proce
 I have experiences with developing webapps as team, so I have knowledge of typical developing workflow, GitHub issue, CI, and deployment. I also have experience of creating progressive web app and static website, by using ServiceWorker, WebAssembly, WebComponents, Polymer, accelerated mobile web (AMP). Furthermore, I tend to make webapps simple and productive so I use gulp. Currently, I work as a frontend web subcontractor (not fulltime job) for developing front-end web application at RECRUIT LIFESTYLE CO., LTD. Also, I contribute WebKit project.
 
 ## Work History
+
+### Indeed
+
+Apr. 2018 - Current
 
 ### Microsoft Development (Summer Internship)
 
