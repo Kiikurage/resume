@@ -19,7 +19,7 @@ GitHub: https://github.com/kiikurage
 - Japanese
 - English
 
-### Programing Languages
+### Programming Languages
 
 -	Python
 -	C++
@@ -39,6 +39,10 @@ I have experiences with developing webapps as team, so I have knowledge of typic
 ### Indeed
 
 Apr. 2018 - Current
+
+### #PFColle (Pro Bono, AI Engineer)
+
+Sep. 2017 - Current
 
 ### Microsoft Development (Summer Internship)
 
