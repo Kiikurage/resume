@@ -23,11 +23,11 @@ GitHub: https://github.com/kiikurage
 
 - JavaScript (TypeScript), Java, C++, HTML, CSS (sass), Python, Visual Basic
 
-### Front-end web development
+### Front-End Web Development
 
 I have +5 years experiences about developing webapps. I have knowledge of typical developing workflow, GitHub issue, CI, and deployment. I also have experience of creating progressive web app and static website, by using latest technologies like ServiceWorker, WebAssembly, etc. Also I'm interested in web browser's implementation and have contributed WebKit project.
 
-### Statistical machine learning
+### Statistical Machine Learning
 
 My research interests lie in field of computer vision and natural language processing. I have knowledges of machine learning, image/video processing, and natural language processing. Specifically, I'm interested in the method how to accelerate DNN computing. Previousely I developed world's fastest DNN computing library in web browser, [WebDNN](https://github.com/mil-tokyo/webdnn).
 
