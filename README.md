@@ -19,7 +19,7 @@ GitHub: https://github.com/kiikurage
 - Japanese: native
 - English: good command ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions): B2high)
 
-### Programing Languages
+### Programming Languages
 
 - JavaScript (TypeScript), Java, C++, HTML, CSS (sass), Python, Visual Basic
 
